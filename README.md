@@ -10,5 +10,6 @@
 
 # cd logo
 
-# install.sh
+# bash setup.sh
+
 
