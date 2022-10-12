@@ -3,13 +3,13 @@
 # INSTALL COMMENTS
 
 
-# pkg install git
+ >  pkg install git
 
 
-# git clone https://github.com/VIKKASH07/logo.git
+ > git clone https://github.com/VIKKASH07/logo.git
 
-# cd logo
+ > cd logo
 
-# bash setup.sh
+ >bash setup.sh
 
 
